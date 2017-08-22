@@ -1,2 +1,6 @@
 # hello-world
-This is a sample repository.
+
+This is yet another edit of the README.md file.
+Soon my programs will be seen nationwide.
+
+- Daniel
